@@ -43,3 +43,13 @@ Sources:
 - https://realpython.com/how-to-make-a-discord-bot-python/
 - https://github.com/juliankoh/ribbon-discord-bot
 - https://github.com/melenxyz/abracadabra-tvl-bot
+
+
+- bankless-defi-innovation-index    | GMI
+- bankless-bed-index   | BED
+- index-cooperative    | INDEX
+- data-economy-index   | DATA
+- metaverse-index      | MVI
+- defipulse-index      | DPI
+- btc-2x-flexible-leverage-index | BTC2xFLI
+- eth-2x-flexible-leverage-index | ETH2xFLI
